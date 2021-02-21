@@ -1,5 +1,4 @@
 # JavaScript library
-
 - https://videojs.com
 - https://animejs.com
 - https://www.chartjs.org
